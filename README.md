@@ -9,9 +9,19 @@
 
 
 
-###在线云引擎搜索
+### 在线云引擎搜索
 - [ZoomEye](https://www.zoomeye.org/searchResult?q=zabbix%20country%3Akr%20&t=web&f=fliter)
 - [Google Hack快速生成小工具](http://www.hi-ourlife.com/google_hack.html)
+###漏洞平台
+**(国内)**
+- [乌云](http://www.anquan.us/) 
+- [洞悉漏洞 知道创宇平台](https://www.seebug.org)
+**(国外)** 
+- [packet strom](https://packetstormsecurity.com/)
+- [SOLDIERX 没用过](https://www.soldierx.com/)
+- [blackhat](http://www.blackhat.com/)
+- [social-engineer](https://www.social-engineer.org/)
+- [attrition.org也很少用](http://attrition.org/security/)
 ### 资源集合
 - [玄魂工作室 开源电子书](http://www.cnblogs.com/xuanhun/p/6044143.html)
 - [Web 安全渗透方面的学习路线?](https://www.zhihu.com/question/21914899)
@@ -35,7 +45,7 @@
 - [Kali Linux秘籍](https://wizardforcel.gitbooks.io/kali-linux-cookbook/content/ch8.html)
 - [一些值得收藏的PowerShell工具](http://www.voidcn.com/article/p-qgghqyyx-ro.html)
 - [Burp Suite v1.6.12破解版下载【附多版本】](http://www.vuln.cn/1974)
-
+- [Android平台渗透测试工具集](http://www.voidcn.com/article/p-znkwrxiy-bnu.html)
 ### 博文收藏篇
 - [使用Chrome修改user agent模拟微信内置浏览器](http://blog.csdn.net/kaikai4/article/details/50973449)
 - [获取webshell权限的45种方法](http://blog.csdn.net/matrix_laboratory/article/details/8771079)
@@ -44,19 +54,56 @@
 - [0h1in9e | 林歌](https://www.ohlinge.cn/)
 
 ### 论坛篇
-- [乌云](http://www.anquan.us/) 
-- [洞悉漏洞 知道创宇平台](https://www.seebug.org)
+
 - [米斯特安全](http://www.hi-ourlife.com/)
 - [阿德马Web安全](http://www.nxadmin.com/category/web)
+- [白帽学院](http://www.baimaoxueyuan.com/)
+
 ### CTF攻略篇
 - [如何开始你的CTF比赛之旅](http://www.freebuf.com/articles/others-articles/36927.html)
 - [i春秋在线挑战攻略](https://bbs.ichunqiu.com/forum.php?mod=collection&action=view&ctid=47	)
 - [针对CTF，大家都是怎么训练的？](https://www.zhihu.com/question/30505597)靶场集结 很棒
- 
+- [推荐 你知道有哪些黑客大牛的博客？](https://www.zhihu.com/question/48884780)  二进制CTF练习必备
+- [CTF github集合](https://github.com/ctfs/write-ups-2016)
+- [PhrackCTF-Platform-Personal CTF平台](https://github.com/zjlywjh001/PhrackCTF-Platform-Personal)
+- [网络安全技术CTF竞赛模式与训练平台](https://649850.kuaizhan.com/27/94/p426750825b4b76)
+- [很多CTF的资料](http://captf.com/)
+- [整理在 IDF 实验室上的 CTF 题](https://l1nwatch.gitbooks.io/ctf/content/IDF%20%E5%AE%9E%E9%AA%8C%E5%AE%A4/readme.html)
+- [CTF 集合](http://blog.csdn.net/bestlzk/article/details/77929840)
+- [南京邮电大学网络攻防训练平台](http://ctf.nuptzj.cn/)
+### CTF赛事关注
+- [安全客](http://bobao.360.cn/ctf/index)
+- [CTF time](https://ctftime.org/event/469/)
 ### 靶场和实战环境篇
+**(在线)**
+
 - [Arthur's Online Riddle 是一個網頁解謎遊戲](http://riddle.arthurluk.net/index.php)
-- [DoraBox - 多拉盒训练靶场](https://github.com/gh0stkey/DoraBox)
+
 - [RedTiger's Hackit SQLz](http://redtiger.labs.overthewire.org/)
+- [合天网安实验室](http://www.hetianlab.com/CTFrace.html)
+- [实验吧](http://www.shiyanbar.com/ctf/practice)
+- [XSS Challenges](http://xss-quiz.int21h.jp/)
+- [alert(1) to win](https://alf.nu/alert1)
+- [Hacker GateWay](https://www.hackergateway.com/)
+- [RingZer0 Team Online CTF](https://ringzer0team.com/)
+- [Mod-X](http://www.mod-x.co.uk/main.php?bad=yes)
+- **(黑客小游戏)**
+ [光棍节程序员闯关秀](https://1111.segmentfault.com/) 
+- [黑客丛林之旅](http://www.fj543.com/hack/)
+- [MyHack58 Game](http://hkyx.myhack58.com/)
+- [Stereotyped Challenges](https://chall.stypr.com)
+####二进制
+- [pwnable.kr](http://pwnable.kr/play.php)
+- [exploit-exercises测试集合](https://exploit-exercises.com/)
+- [pwnable.tw](https://pwnable.tw/)
+- [StackexChange](https://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist)
+- [Reddit 上的ae27ff。](https://ae27ff.meme.tips/register.php?)
+**（本地搭建）**
+- [DoraBox - 多拉盒训练靶场](https://github.com/gh0stkey/DoraBox)
+- [WebApp Pentesting Web渗透演练平台](http://www.voidcn.com/article/p-cjfdnpxj-bdm.html)
+- [十大渗透测试演练系统](http://www.voidcn.com/article/p-hkhqjmso-p.html)
+- [LAMPSecurity渗透演练](http://www.voidcn.com/article/p-gohmzbhu-bhh.html)
+
 ## Life
 - [知乎 有哪些适合大学生浏览的网站？](https://www.zhihu.com/question/20136746)
 - [知乎 有什么好看的电影？](https://www.zhihu.com/question/26477086)
@@ -70,8 +117,7 @@
 - [如何系统地学习java web技术？](https://www.zhihu.com/question/23335551 "javaweb学习路线")  
 推荐: 
 - [学习 JAVA，有什么书籍推荐？学习的方法和过程是怎样的？](https://www.zhihu.com/question/29581524/answer/44872235)
-<<<<<<< HEAD
- 
+
 - [大学生做web开发需要学习哪些知识？](https://www.zhihu.com/question/27644184)    里面有多的前端框架推荐  
 
  
@@ -92,7 +138,7 @@
 - [md编辑器集合](http://www.williamlong.info/archives/4319.html) 
 
 
-##脚本
+## 脚本
 
 - [如何入门 Python 爬虫？](https://www.zhihu.com/question/20899988)
 - [github Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐](https://github.com/Yixiaohan/codeparkshare) 
