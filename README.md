@@ -8,7 +8,6 @@
  
 - [如何系统地学习java web技术？](https://www.zhihu.com/question/23335551 "javaweb学习路线")  
 - [学习 JAVA，有什么书籍推荐？学习的方法和过程是怎样的？](https://www.zhihu.com/question/29581524/answer/44872235)
- <br>
 - [Now UI kIt 一个不错的前端模板](https://www.creative-tim.com/product/now-ui-kit?affiliate_id=97705)  <br>
 - [国外的web开发资源集合 特别棒](https://github.com/sindresorhus/awesome/blob/master/readme.md)
 
