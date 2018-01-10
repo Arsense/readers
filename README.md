@@ -12,19 +12,44 @@
 ### 在线云引擎搜索
 - [ZoomEye](https://www.zoomeye.org/searchResult?q=zabbix%20country%3Akr%20&t=web&f=fliter)
 - [Google Hack快速生成小工具](http://www.hi-ourlife.com/google_hack.html)
-- 
+- [webscan 360](http://webscan.360.cn/)
+- [百度云观测](http://ce.baidu.com/)
+- [NOSEC大数据](https://nosec.org/my/query/url)
+- [shodan](https://www.shodan.io/)
+- [shadan傻蛋](https://www.oshadan.com/)
+**云盘搜索**
+- [盘易搜](http://www.panyisou.com)
+- [网盘搜](http://www.wangpansou.com/)
+- [网盘资源，盘搜一下](http://www.pansou.com/)
+- [胖次](https://www.panc.cc/)
+- [百度云搜 ](http://www.baiduyunso.com/)
+##在线加密解密
+- [输入让你无语的MD5](https://www.somd5.com/)
+- [md5.navisec](https://md5.navisec.it/)
+- [chamd5](http://www.chamd5.org/()
+- [ophcrack Hash](http://www.objectif-securite.ch/en/ophcrack.php)
+- [Whois查询](http://whois.chinaz.com/)
+- [IP反查域名](https://dns.aizhan.com/)
 ### 漏洞平台
 **(国内)**
 - [乌云](http://www.anquan.us/) 
 - [洞悉漏洞 知道创宇平台](https://www.seebug.org)
-
+- [SRC集合](http://www.srcsec.com/)
+- [漏洞平台集合](http://0xsafe.org/vuldb.html)
 **(国外)** 
+
 - [packet strom](https://packetstormsecurity.com/)
 - [SOLDIERX 没用过](https://www.soldierx.com/)
 - [blackhat](http://www.blackhat.com/)
 - [social-engineer](https://www.social-engineer.org/)
 - [attrition.org也很少用](http://attrition.org/security/)
+- [packetstormsecurity](https://packetstormsecurity.com/)
+- [ussrback](http://www.ussrback.com/)
+- [soldierx](https://www.soldierx.com/)
 ### 资源集合
+- [SRC的漏洞分析](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=19745&highlight=%E6%BC%8F%E6%B4%9E?from=hot0)
+- [安全行业从业人员自研开源扫描器合集（2017/01/11更新）](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=18125&highlight=%E5%BC%80%E6%BA%90)
+- [Blasting_dictionary爆破字典](https://github.com/rootphantomer/Blasting_dictionary)
 - [玄魂工作室 开源电子书](http://www.cnblogs.com/xuanhun/p/6044143.html)
 - [Web 安全渗透方面的学习路线?](https://www.zhihu.com/question/21914899)
 - [国外网络安全中机器学习大合集](https://github.com/jivoi/awesome-ml-for-cybersecurity/blob/master/README_ch.md)
@@ -37,6 +62,7 @@
 - [i春秋精选工具(官方)](https://bbs.ichunqiu.com/forum.php?mod=collection&action=view&ctid=21)
 - [i春秋精选CTF工具](https://www.ctftools.com/)
 
+- [国内外 SQL 神器](http://blog.csdn.net/heimian/article/details/7080822)
 - 虫师[web安全测试-AppScan扫描工具](http://www.cnblogs.com/fnng/archive/2012/05/27/2520594.html)
 - [渗透测试神器Burp Suite v1.6.17（含破解版下载）](http://www.freebuf.com/sectool/66521.html)
 - [Sqlmap官网下载与安装教程](http://www.vuln.cn/2000)
@@ -52,15 +78,19 @@
 - [使用Chrome修改user agent模拟微信内置浏览器](http://blog.csdn.net/kaikai4/article/details/50973449)
 - [获取webshell权限的45种方法](http://blog.csdn.net/matrix_laboratory/article/details/8771079)
 - [从甲方的角度谈谈WAF测试方法](https://zhuanlan.zhihu.com/p/22868640)
+- [各大组织大马默认密码](http://www.mamicode.com/info-detail-303886.html)
+- [谷歌电子表单CSRF+JSON劫持漏洞](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=14537&extra=page%3D1%26filter%3Dtypeid%26typeid%3D162)
+- [子域名搜集思路与技巧梳理](http://www.freebuf.com/articles/web/117006.html)
+- [07v8第11篇技术分享 | 挖洞技巧：支付漏洞之总结](http://mp.weixin.qq.com/s/Tt6FkoPBHSJfh2xIV-XJBg)
 ### 博客篇
 - [0h1in9e | 林歌](https://www.ohlinge.cn/)
-
+- [iverson5](http://iverson5.blog.163.com/)
 ### 论坛篇
-
+- [i春秋](https://bbs.ichunqiu.com/portal.php)
+- [安全盒子](http://www.secbox.cn/author/4ido10n)
 - [米斯特安全](http://www.hi-ourlife.com/)
-- [阿德马Web安全](http://www.nxadmin.com/category/web)
 - [白帽学院](http://www.baimaoxueyuan.com/)
-
+- [Hack 80](http://www.hack80.com/thread-23252-1-1.html)
 ### CTF攻略篇
 - [如何开始你的CTF比赛之旅](http://www.freebuf.com/articles/others-articles/36927.html)
 - [i春秋在线挑战攻略](https://bbs.ichunqiu.com/forum.php?mod=collection&action=view&ctid=47	)
@@ -89,6 +119,7 @@
 - [Hacker GateWay](https://www.hackergateway.com/)
 - [RingZer0 Team Online CTF](https://ringzer0team.com/)
 - [Mod-X](http://www.mod-x.co.uk/main.php?bad=yes)
+- [XSS-Proxy](http://www.cnblogs.com/milantgh/p/3644915.html)
 - **(黑客小游戏)**
  [光棍节程序员闯关秀](https://1111.segmentfault.com/) 
 - [黑客丛林之旅](http://www.fj543.com/hack/)
@@ -100,6 +131,9 @@
 - [pwnable.tw](https://pwnable.tw/)
 - [StackexChange](https://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist)
 - [Reddit 上的ae27ff。](https://ae27ff.meme.tips/register.php?)
+
+**二进制博文**
+- [深入探究文件Fuzz工具之Peach实战](http://www.freebuf.com/sectool/120650.html)
 **（本地搭建）**
 - [DoraBox - 多拉盒训练靶场](https://github.com/gh0stkey/DoraBox)
 - [WebApp Pentesting Web渗透演练平台](http://www.voidcn.com/article/p-cjfdnpxj-bdm.html)
